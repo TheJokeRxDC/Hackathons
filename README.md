@@ -15,7 +15,7 @@
 
 <hr>
 
-## Hackathon List
+## CHALLENGES 🔥
 
 | Hackathon Name                                         | Hackathon Result |
 |---                                                     |---               |
