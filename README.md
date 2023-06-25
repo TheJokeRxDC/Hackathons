@@ -26,5 +26,5 @@
 | HackerEarth Predict The Condition And Insurance Amount | <img src="https://img.shields.io/badge/Ranking-Top%202%25-brightgreen">     |
 | Hackerearth Reduce Marketing Waste Challenge           | <img src="https://img.shields.io/badge/Ranking-Top%201%25-brightgreen">     |
 | Hackerearth Genome And Genetics Challenge              | <img src="https://img.shields.io/badge/Ranking-15%2F2132-brightgreen">      |
-
+| Machine Hack Predict The News Category                 | <img src="https://img.shields.io/badge/Ranking-Practice-brightgreen">       | 
 
